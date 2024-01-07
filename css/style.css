@@ -2207,19 +2207,25 @@ table td{}
 }
 
 .home-acces ul li div.hacc1 {
-    background-image: url("../images/couples/1.jpg");
+    background-image: url("../images/couples/couple-2.jpg");
 }
 
 .home-acces ul li div.hacc2 {
-    background-image: url("../images/couples/2.jpg");
+    background-image: url("../images/couples/wedding-2.jpg");
 }
 
 .home-acces ul li div.hacc3 {
-    background-image: url("../images/couples/11.jpg");
+    background-image: url("../images/couples/wedding.png");
 }
 
 .home-acces ul li div.hacc4 {
-    background-image: url("../images/couples/4.jpg");
+    background-image: url("../images/couples/join-now.jpg");
+}
+.home-acces ul li div.hacc5 {
+    background-image: url("../images/couples/couple.jpg");
+}
+.home-acces ul li div.hacc6 {
+    background-image: url("../images/couples/blog.jpg");
 }
 
 .home-acces ul li div.hacc .con {
